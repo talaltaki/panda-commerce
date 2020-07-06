@@ -38,13 +38,35 @@
 }
 
 .cat1 {
-    background-color: orange;
+    background-image: linear-gradient(to bottom, #fc4a1a, #f7b733);
 }
 
 .cat2 {
-    background-color: orchid;
+    background-image: linear-gradient(to bottom, #8E2DE2, #4A00E0);
 }
 
 .cat3 {
-    background-color: royalblue;
+    background-image: linear-gradient(to bottom, #00F260, #0575E6);
+}
+
+.card {
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+
+.card-footer {
+    background-color: white;
+    border-top: none;
+}
+
+#contact {
+    height: 300px;
+}
+
+#contact h6 {
+    color: gray;
+}
+
+footer {
+    text-align: center;
 }
