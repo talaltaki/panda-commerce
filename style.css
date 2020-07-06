@@ -23,3 +23,28 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.categories h1 {
+    color: white;
+}
+
+.categories img {
+    width: 100px;
+}
+
+.cat1, .cat2, .cat3 {
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.cat1 {
+    background-color: orange;
+}
+
+.cat2 {
+    background-color: orchid;
+}
+
+.cat3 {
+    background-color: royalblue;
+}
